@@ -1,0 +1,21 @@
+C:\Users\I nx\Desktop\Inx Injector\Inx Injector\bin\Debug\Inx Injector.exe
+C:\Users\I nx\Desktop\Inx Injector\Inx Injector\bin\Debug\Inx Injector.pdb
+C:\Users\I nx\Desktop\Inx Injector\Inx Injector\bin\Debug\Inx Injector.xml
+C:\Users\I nx\Desktop\Inx Injector\Inx Injector\obj\Debug\Inx_Injector.IForm.resources
+C:\Users\I nx\Desktop\Inx Injector\Inx Injector\obj\Debug\Inx_Injector.Resources.resources
+C:\Users\I nx\Desktop\Inx Injector\Inx Injector\obj\Debug\Inx Injector.vbproj.GenerateResource.Cache
+C:\Users\I nx\Desktop\Inx Injector\Inx Injector\obj\Debug\Inx Injector.exe
+C:\Users\I nx\Desktop\Inx Injector\Inx Injector\obj\Debug\Inx Injector.xml
+C:\Users\I nx\Desktop\Inx Injector\Inx Injector\obj\Debug\Inx Injector.pdb
+D:\#Inx Work\Inx Injector\Inx Injector\bin\Debug\Inx Injector.exe.config
+D:\#Inx Work\Inx Injector\Inx Injector\bin\Debug\Inx Injector.exe
+D:\#Inx Work\Inx Injector\Inx Injector\bin\Debug\Inx Injector.pdb
+D:\#Inx Work\Inx Injector\Inx Injector\bin\Debug\Inx Injector.xml
+D:\#Inx Work\Inx Injector\Inx Injector\obj\Debug\Inx_Injector.IForm.resources
+D:\#Inx Work\Inx Injector\Inx Injector\obj\Debug\Inx_Injector.Resources.resources
+D:\#Inx Work\Inx Injector\Inx Injector\obj\Debug\Inx Injector.vbproj.GenerateResource.Cache
+D:\#Inx Work\Inx Injector\Inx Injector\obj\Debug\Inx Injector.exe
+D:\#Inx Work\Inx Injector\Inx Injector\obj\Debug\Inx Injector.xml
+D:\#Inx Work\Inx Injector\Inx Injector\obj\Debug\Inx Injector.pdb
+D:\#Inx Work\Inx Injector\Inx Injector\obj\Debug\Inx Injector.vbprojResolveAssemblyReference.cache
+D:\#Inx Work\Inx Injector\Inx Injector\obj\Debug\Inx_Injector.EForm.resources
