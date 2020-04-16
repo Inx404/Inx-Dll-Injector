@@ -1,4 +1,3 @@
-# Inx-Dll-Injector
 Inx Dll Injector Version 2.0
 - Language vb.net
 - Drag & Drop Dlls Supported
